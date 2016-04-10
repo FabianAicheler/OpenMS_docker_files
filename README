@@ -1,2 +1,4 @@
 
 Dockerfile collection
+
+Copy from https://github.com/hroest/docker_files; Plan: Adapt for newest source release
